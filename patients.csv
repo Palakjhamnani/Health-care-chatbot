@@ -1,0 +1,101 @@
+patient_id,name,age,gender,medical_history,allergies
+1,Kyle Williams,31,Male,"['Allergy', 'Flu']",Peanuts
+2,Jeremy Salinas,29,Male,"['Migraine', 'Tonsillitis', 'Heart Attack']",
+3,Eric Moore,90,Male,"['Allergy', 'Anemia']",Penicillin
+4,Victoria Rasmussen,58,Male,"['Anemia', 'Allergy']",Pollen
+5,Jason Mcintyre,23,Male,['Flu'],Peanuts
+6,Katie Velez,45,Female,"['Diabetes', 'Muscle Strain']",Peanuts
+7,Lori Bryant,90,Female,[],Peanuts
+8,Anthony Medina,2,Female,[],Penicillin
+9,Lindsay Wilson,87,Female,['Migraine'],Pollen
+10,Taylor Medina,82,Female,"['Heart Attack', 'Arthritis', 'Allergy']",Peanuts
+11,Karen Marshall MD,66,Male,"['Heart Attack', 'Allergy']",Penicillin
+12,Beverly Meyers,61,Male,['Anemia'],Penicillin
+13,Linda Barnes,44,Female,[],Pollen
+14,Doris Anderson,88,Female,[],Penicillin
+15,Stephanie Woods,24,Female,['Allergy'],Pollen
+16,Faith Austin,11,Male,['Allergy'],Peanuts
+17,Lindsey Evans,83,Female,['Heart Attack'],
+18,Madison Johnson,84,Female,"['Migraine', 'Anemia', 'Heart Attack']",
+19,Amanda Walsh,85,Female,"['Muscle Strain', 'Anemia']",Peanuts
+20,Mark Schaefer,70,Male,"['Tonsillitis', 'Food Poisoning']",Penicillin
+21,Dr. Michael Huff,2,Male,"['Muscle Strain', 'Food Poisoning', 'Flu']",Peanuts
+22,Ronald Sanchez,69,Male,"['Heart Attack', 'Tonsillitis', 'Muscle Strain']",
+23,Rebecca Weber,73,Female,"['Food Poisoning', 'Flu']",
+24,Christina Evans,72,Female,"['Flu', 'Arthritis']",
+25,Adrienne Adkins,80,Female,"['Migraine', 'Tonsillitis']",Pollen
+26,Christopher Porter,19,Female,"['Migraine', 'Diabetes']",
+27,Kristin Butler,46,Male,"['Diabetes', 'Food Poisoning', 'Flu']",
+28,Donna Whitaker,73,Male,[],Penicillin
+29,John Novak,64,Female,"['Muscle Strain', 'Diabetes']",Peanuts
+30,Joshua Brown,73,Male,['Allergy'],Pollen
+31,Raymond Orr,56,Male,[],
+32,Lisa York,4,Female,[],Pollen
+33,Ralph Hale,43,Male,"['Diabetes', 'Heart Attack']",
+34,Tammy Johnson,87,Male,[],Peanuts
+35,Adam Vaughn,16,Male,[],Pollen
+36,Veronica Mclaughlin,16,Female,"['Diabetes', 'Allergy']",Penicillin
+37,Albert Taylor,56,Male,"['Arthritis', 'Allergy']",Peanuts
+38,Kristin Holt,36,Female,[],
+39,Stephanie Roman,64,Female,"['Allergy', 'Arthritis', 'Migraine']",Peanuts
+40,Michael Berger,18,Female,"['Diabetes', 'Heart Attack', 'Anemia']",Peanuts
+41,Jennifer Meyer,20,Male,[],Penicillin
+42,Daniel Torres,86,Female,"['Flu', 'Migraine']",Pollen
+43,Hannah Miller,46,Male,"['Flu', 'Food Poisoning', 'Heart Attack']",
+44,Martin Curtis,82,Male,['Anemia'],Penicillin
+45,Ryan Atkinson,24,Male,[],Penicillin
+46,George Robinson,28,Male,"['Anemia', 'Allergy', 'Muscle Strain']",Penicillin
+47,April Jackson,11,Female,['Arthritis'],
+48,Keith Miles,73,Female,['Arthritis'],Peanuts
+49,Stephanie Arnold,42,Male,"['Heart Attack', 'Diabetes', 'Anemia']",Pollen
+50,Amy Horn,42,Male,[],Peanuts
+51,Suzanne Carrillo,75,Male,['Muscle Strain'],
+52,Benjamin Salinas,61,Female,"['Tonsillitis', 'Diabetes']",
+53,Stephanie Gonzalez,81,Male,['Allergy'],Penicillin
+54,Michael Jackson,27,Male,"['Anemia', 'Arthritis', 'Flu']",Peanuts
+55,Amanda Roberts,65,Female,"['Muscle Strain', 'Anemia', 'Allergy']",
+56,Taylor Lee,37,Female,"['Flu', 'Muscle Strain']",Peanuts
+57,Rachel Campbell,48,Male,"['Migraine', 'Diabetes', 'Allergy']",Penicillin
+58,Katelyn Hines,32,Male,"['Anemia', 'Tonsillitis', 'Arthritis']",Pollen
+59,Bobby Brady,24,Male,[],Pollen
+60,Dennis Palmer,48,Female,"['Arthritis', 'Tonsillitis', 'Flu']",Pollen
+61,David Flores Jr.,36,Female,"['Muscle Strain', 'Allergy', 'Diabetes']",
+62,Cheryl Key,84,Male,[],Peanuts
+63,Brett Hayes,48,Male,"['Food Poisoning', 'Arthritis', 'Tonsillitis']",
+64,Andre Robinson,62,Female,"['Diabetes', 'Heart Attack', 'Food Poisoning']",Pollen
+65,Mr. Adam Lyons,20,Male,['Allergy'],
+66,John Vargas,88,Female,['Diabetes'],Pollen
+67,Melissa Chen,3,Male,"['Diabetes', 'Muscle Strain']",Peanuts
+68,Marvin Turner,75,Male,"['Tonsillitis', 'Arthritis', 'Anemia']",
+69,Michael Short,42,Female,[],
+70,Alyssa Washington,85,Male,[],Penicillin
+71,James Williams,13,Female,"['Migraine', 'Anemia']",Pollen
+72,Angela Ford,66,Male,"['Food Poisoning', 'Tonsillitis', 'Arthritis']",
+73,Joseph Martin,45,Male,[],
+74,Maria Austin,60,Male,[],Peanuts
+75,Jimmy Rivers,72,Male,"['Heart Attack', 'Diabetes']",Penicillin
+76,Brian Thomas,53,Male,['Diabetes'],
+77,Tammy Evans,7,Male,[],Peanuts
+78,Connie Joseph,80,Male,"['Flu', 'Allergy', 'Migraine']",Penicillin
+79,Susan Hart,11,Female,['Migraine'],Penicillin
+80,Sabrina Miller,69,Female,[],Pollen
+81,Shannon Jones,10,Male,"['Muscle Strain', 'Food Poisoning', 'Anemia']",
+82,Mr. Cory Simon DDS,74,Male,['Muscle Strain'],
+83,Leah Stevenson,12,Male,"['Arthritis', 'Heart Attack', 'Food Poisoning']",Peanuts
+84,Joshua Black,45,Female,"['Migraine', 'Allergy', 'Tonsillitis']",Penicillin
+85,Paul Hicks,89,Male,"['Arthritis', 'Heart Attack', 'Tonsillitis']",
+86,Michael Beck,55,Female,"['Tonsillitis', 'Arthritis', 'Food Poisoning']",Peanuts
+87,Ashley Adams,2,Female,"['Anemia', 'Arthritis']",Penicillin
+88,Sherry White,19,Male,[],Penicillin
+89,Elizabeth Kane,74,Female,"['Arthritis', 'Food Poisoning', 'Anemia']",Penicillin
+90,Timothy Wall,89,Male,[],Peanuts
+91,Amanda Williams,19,Male,[],Penicillin
+92,Dr. Peter Huerta,32,Female,"['Diabetes', 'Flu']",Peanuts
+93,Zachary Graham,77,Male,"['Tonsillitis', 'Arthritis', 'Migraine']",Penicillin
+94,Cindy Nguyen,31,Female,"['Tonsillitis', 'Migraine']",Pollen
+95,Nicole Rose,77,Female,"['Tonsillitis', 'Allergy', 'Migraine']",Pollen
+96,Jennifer Wyatt,45,Male,"['Allergy', 'Heart Attack', 'Flu']",Pollen
+97,Karen Hogan,60,Female,"['Tonsillitis', 'Allergy']",Peanuts
+98,Kyle Allen,9,Female,[],Pollen
+99,Mr. Lonnie Walker,70,Female,['Migraine'],Pollen
+100,Jeffrey Lynch,63,Male,['Arthritis'],Peanuts
